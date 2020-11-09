@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/tamara-kathleen-b40ab0198" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/tamara-kathleen-b40ab0198" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/tamara.kathleen2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/tamara.kathleen2" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/kathleen.tamara/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/kathleen.tamara/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tamara-kathleen-b40ab0198" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tamara-kathleen-b40ab0198" height="30" width="40" /></a>
+<a href="https://fb.com/tamara.kathleen2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tamara.kathleen2" height="30" width="40" /></a>
+<a href="https://instagram.com/kathleen.tamara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kathleen.tamara" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
