@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>{Tamara Kathleen}!</strong>
 
-> Sou estudante de Análise e Desenvolvimente de Sistemas.Meu objetivo é me tornar uma desenvolvedora. Atualmente tenho estudado um pouco de HTML, CSS e JavaScript também tenho um conhecimento básico de Java e MySql.
+### Sou estudante de Análise e Desenvolvimente de Sistemas.Meu objetivo é me tornar uma desenvolvedora. Atualmente tenho estudado um pouco de HTML, CSS e JavaScript também tenho um conhecimento básico de Java e MySql.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamarakathleen&label=Profile%20views&color=0e75b6&style=flat" alt="tamarakathleen" /> </p>
 
