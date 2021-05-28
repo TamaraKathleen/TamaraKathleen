@@ -2,8 +2,6 @@
 
 ### Sou estudante de Análise e Desenvolvimente de Sistemas.Meu objetivo é me tornar uma desenvolvedora. Atualmente tenho estudado um pouco de HTML, CSS e JavaScript também tenho um conhecimento básico de Java e MySql.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamarakathleen&label=Profile%20views&color=0e75b6&style=flat" alt="tamarakathleen" /> </p>
-
 - 🌱 I’m currently learning **HTML, CSS, JavaScript e Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TamaraKathleen](https://github.com/TamaraKathleen)
@@ -38,5 +36,6 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamarakathleen&label=Profile%20views&color=0e75b6&style=flat" alt="tamarakathleen" /> </p>
 
 
