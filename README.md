@@ -1,4 +1,18 @@
-<h1 align="center">Hi 👋, I'm Tamara Kathleen</h1>
+## 💜 Olá, meu nome é <strong>{Tamara Kathleen}!</strong>
+
+> Sou estudante de Análise e Desenvolvimente de Sistemas.Meu objetivo é me tornar uma desenvolvedora. Atualmente tenho estudado um pouco de HTML, CSS e JavaScript também tenho um conhecimento básico de Java e MySql.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamarakathleen&label=Profile%20views&color=0e75b6&style=flat" alt="tamarakathleen" /> </p>
+
+- 🌱 I’m currently learning **HTML, CSS, JavaScript e Java**
+
+- 👨‍💻 All of my projects are available at [https://github.com/TamaraKathleen](https://github.com/TamaraKathleen)
+
+- 📫 How to reach me **tamarakathleen50@gmail.com**
+
+- ⚡ Fun fact **Sou apaixonada por tecnologia e esportes.**
+
+---
 
 <a target="_blank" href="https://linkedin.com/in/tamara-kathleen-b40ab0198">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -16,21 +30,7 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-
-<h3 align="center">Sou estudante de Análise e Desenvolvimente de Sistemas.Meu objetivo é me tornar uma desenvolvedora. Atualmente tenho estudado um pouco de HTML, CSS e JavaScript também tenho um conhecimento básico de Java e MySql.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamarakathleen&label=Profile%20views&color=0e75b6&style=flat" alt="tamarakathleen" /> </p>
-
-- 🌱 I’m currently learning **HTML, CSS, JavaScript e Java**
-
-- 👨‍💻 All of my projects are available at [https://github.com/TamaraKathleen](https://github.com/TamaraKathleen)
-
-- 📫 How to reach me **tamarakathleen50@gmail.com**
-
-- ⚡ Fun fact **Sou apaixonada por tecnologia e esportes.**
-
 ---
-
 <h3 align="left">Languages and Tools:</h3>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
