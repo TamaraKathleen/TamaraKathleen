@@ -16,7 +16,8 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
----
+
+----
 
 <h3 align="center">Sou estudante de Análise e Desenvolvimente de Sistemas.Meu objetivo é me tornar uma desenvolvedora. Atualmente tenho estudado um pouco de HTML, CSS e JavaScript também tenho um conhecimento básico de Java e MySql.</h3>
 
