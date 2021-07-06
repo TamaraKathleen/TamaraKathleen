@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>{Tamara Kathleen}!</strong>
 
-### Sou estudante de Análise e Desenvolvimente de Sistemas.Meu objetivo é me tornar uma desenvolvedora. Atualmente tenho estudado um pouco de HTML, CSS e JavaScript também tenho um conhecimento básico de Java e MySql.
+### Sou estagiária de desenvolvimento, onde realizo manutenção e desenvolvimento de sistemas web utilizando as linguagens Python, CSS, HTML com o framework Django. Conhecimento de básico de GitLab, Linux e Docker.
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript e Java**
 
@@ -11,11 +11,11 @@
 - ⚡ Fun fact **Sou apaixonada por tecnologia e esportes.**
 
 ## 🚀Languages and Tools:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
