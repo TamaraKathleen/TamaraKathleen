@@ -2,7 +2,7 @@
 
 ### Atualmente trabalho na empresa CI&T como Developer Mobile Android, trabalho com a linguagem Kotlin.
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript e Java**
+- 🌱 I’m currently learning **Kotlin para desenvolvimento Android**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TamaraKathleen](https://github.com/TamaraKathleen)
 
@@ -10,15 +10,19 @@
 
 - ⚡ Fun fact **Sou apaixonada por tecnologia e esportes.**
 
-## 🚀Languages and Tools:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+## 🚀Languages and Tools:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="30" height="30" />
+
+
+
+<div>
+<a href="https://github.com/TamaraKathleen">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamaraKathleen&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TamaraKathleen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+  
 ## ⭐ Minhas contas: 
 <a target="_blank" href="https://linkedin.com/in/tamara-kathleen-b40ab0198">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
