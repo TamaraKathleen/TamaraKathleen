@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>{Tamara Kathleen}!</strong>
 
-### Sou estagiária de desenvolvimento, onde realizo manutenção e desenvolvimento de sistemas web utilizando as linguagens Python, CSS, HTML com o framework Django. Conhecimento de básico de GitLab, Linux e Docker.
+### Atualmente trabalho na empresa CI&T como Developer Mobile Android, trabalho com a linguagem Kotlin.
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript e Java**
 
