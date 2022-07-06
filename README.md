@@ -42,4 +42,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamarakathleen&label=Profile%20views&color=0e75b6&style=flat" alt="tamarakathleen" /> </p>
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 
