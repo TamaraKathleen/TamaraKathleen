@@ -5,17 +5,17 @@
 Constant learner, always willing to learn a little more and share my knowledge. I'm a Mobile Developer at CI&T, I currently work with the React Native language, but I have knowledge in Android application development with Kotlin.
 I have a degree in Public Management and Systems Analysis and Development.
 
-- 🌱 I’m currently learning **Kotlin para desenvolvimento Android**
+- 🌱 I’m currently learning **Kotlin and React Native for mobile**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TamaraKathleen](https://github.com/TamaraKathleen)
 
 - 📫 How to reach me **tamarakathleen50@gmail.com**
 
-- ⚡ Fun fact **Sou apaixonada por tecnologia e esportes.**
+- ⚡ Fun fact **I am passionate about technology and sports.**
 
 
 ## 🚀Languages and Tools:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="30" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="30" height="30" />
 
 
 
