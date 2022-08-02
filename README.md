@@ -1,6 +1,9 @@
 ## 💜 Olá, meu nome é <strong>{Tamara Kathleen}!</strong>
 
-### Atualmente trabalho na empresa CI&T como Developer Mobile Android, trabalho com a linguagem Kotlin.
+### Welcome to my network!
+
+Constant learner, always willing to learn a little more and share my knowledge. I'm a Mobile Developer at CI&T, I currently work with the React Native language, but I have knowledge in Android application development with Kotlin.
+I have a degree in Public Management and Systems Analysis and Development.
 
 - 🌱 I’m currently learning **Kotlin para desenvolvimento Android**
 
