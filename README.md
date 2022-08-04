@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{Tamara Kathleen}!</strong>
+## 💜 Hi, my name is <strong>{Tamara Kathleen}!</strong>
 
 ### Welcome to my network!
 
@@ -26,7 +26,7 @@ I have a degree in Public Management and Systems Analysis and Development.
 </div>
   
   
-## ⭐ Minhas contas: 
+## ⭐ My Social Networks: 
 <a target="_blank" href="https://linkedin.com/in/tamara-kathleen-b40ab0198">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
